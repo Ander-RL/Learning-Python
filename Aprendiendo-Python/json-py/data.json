@@ -1,0 +1,10 @@
+{
+  "name": "Chuck",
+  "phone": {
+    "type": "smart",
+    "number": "+1 123 123 123 132"
+  },
+  "email": {
+    "hide": "yes"
+  }
+}
